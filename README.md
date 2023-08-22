@@ -58,3 +58,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <hr>
 
 Enjoy using the Gear Toggle Switch in your web projects! If you have any questions or suggestions, please don't hesitate to <a href="https://api.whatsapp.com/send?phone=+917586073575&text=Hello%20Aarzoo!">contact us</a>.
+
+## Preview
+<img width="910" alt="Screenshot 2023-08-22 135014" src="https://github.com/Aarzoo75/Gear-Toggle-Switch/assets/59678435/06a0e5a1-d24b-417f-96d4-c35f79669430">
+
